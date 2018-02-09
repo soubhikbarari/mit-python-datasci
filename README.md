@@ -17,6 +17,6 @@ that they will not display properly on this GitHub repo itself.
 * `fundamentals.sol.ipynb` - Jupyter notebook on Python fundamentals with solutions to exercises.
 * `datasci.ipynb` - Jupyter notebook introducing the Python data science toolkit.
 * `datasci.sol.ipynb` - Jupyter notebook introducing the Python data science toolkit with solutions to exercises.
-* `/data` - Data used by/created by Python code in this repo.
+* `/data` - Data used by Python code in this repo.
  
 
