@@ -1,0 +1,51 @@
+StateName,Seats,Senate,SenateDem,SenateRep,SenateOther,House,HouseDem,HouseRep,HouseOther,Control
+Alabama,140,35,8,26,1,105,32,72,1v,Rep
+Alaska,60,20,6,14,,40,17,21,2,Rep
+Arizona,90,30,13,17,,60,25,35,,Rep
+Arkansas,135,35,9,26,,100,24,76,,Rep
+California,120,40,27,13,,80,55,25,,Dem
+Colorado,100,35,17,18,,65,37,28,,Split
+Connecticut,187,36,18,18,,151,79,72,,Split
+Delaware,62,21,11,10,,41,25,16,,Dem
+Florida,160,40,15,25,,120,41,79,,Rep
+Georgia,236,56,18,38,,180,62,118,,Rep
+Hawaii,76,25,25,0,,51,45,6,,Dem
+Idaho,105,35,6,29,,70,11,59,,Rep
+Illinois,177,59,37,22,,118,67,51,,Dem
+Indiana,150,50,9,41,,100,30,70,,Rep
+Iowa,150,50,20,29,1,100,41,59,,Rep
+Kansas,165,40,9,31,,125,40,85,,Rep
+Kentucky,138,38,11,27,,100,36,64,,Rep
+Louisiana,144,39,14,25,,105,42,60,3,Rep
+Maine,186,35,17,18,,151,77,72,2,Split
+Maryland,188,47,33,14,,141,90,51,,Dem
+Massachusetts,200,40,34,6,,160,125,35,,Dem
+Michigan,148,38,11,27,,110,47,63,,Rep
+Minnesota,201,67,33,34,,134,57,77,,Rep
+Mississippi,174,52,20,32,,122,48,74,,Rep
+Missouri,197,34,9,25,,163,46,117,,Rep
+Montana,150,50,18,32,,100,41,59,,Rep
+Nebraska,49,49,,,49,Unicameral,,,,N/A
+Nevada,63,21,11,9,1,42,27,15,,Dem
+New Hampshire,424,24,10,14,,400,175,225,,Rep
+New Jersey,120,40,24,16,,80,52,28,,Dem
+New Mexico,112,42,26,16,,70,38,32,,Dem
+New York,213,63,32,31,,150,107,43,,Dem
+North Carolina,170,50,15,35,,120,46,74,,Rep
+North Dakota,141,47,9,38,,94,13,81,,Rep
+Ohio,132,33,9,24,,99,33,66,,Rep
+Oklahoma,149,48,6,42,,101,26,75,,Rep
+Oregon,90,30,17,13,,60,35,25,,Dem
+Pennsylvania,253,50,16,34,,203,80,122,1v,Rep
+Rhode Island,113,38,33,5,,75,64,10,1,Dem
+South Carolina,170,46,18,28,,124,44,80,,Rep
+South Dakota,105,35,6,29,,70,10,60,,Rep
+Tennessee,132,33,5,28,,99,25,74,,Rep
+Texas,181,31,11,20,,150,56,94,,Rep
+Utah,104,29,5,24,,75,13,62,,Rep
+Vermont,180,30,23,7,,150,84,53,13,Dem
+Virginia,140,40,19,21,,100,34,66,,Rep
+Washington,147,49,25,24,,98,50,48,,Dem
+West Virginia,134,34,12,22,,100,36,63,1,Rep
+Wisconsin,132,33,13,20,,99,35,64,,Rep
+Wyoming,90,30,3,27,,60,9,51,,Rep
