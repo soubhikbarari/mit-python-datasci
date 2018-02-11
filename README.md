@@ -6,7 +6,8 @@
 
 This workshop serves as an introduction to the fundamentals of the Python 
 programming language as well as an overview of the different tools available 
-for data science (`numpy`, `pandas`, `matplotlib`, `scikit-learn`). 
+for data science (`numpy`, `pandas`, `matplotlib`, `scikit-learn`). The only
+pre-requisite skill is proficiency in the **R** programming language.
 
 Included is an application of analyzing party affiliation, ideology, and coalitions
 in the 1984 House of Representatives using machine learning on roll call vote data.
